@@ -1,6 +1,7 @@
 
 'use strict';
-var score =0;
+
+var score = 0;
 var msg = prompt('What is your name?');
 alert('hello' + ' ' + msg);
 console.log('hello', msg);
@@ -43,7 +44,7 @@ for (var j = 1; j < 5; j++) {
         alert(' your ansewr is too high ');
     } else if (ansewr < 80) {
         alert(' your ansewr is too low');
-    } else if (ansewr == 80) {9
+    } else if (ansewr == 80) {
         alert('that is it');
         score++;
         j = 5;
