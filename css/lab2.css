@@ -13,7 +13,7 @@ p {
 }
 h2 {
     text-align: left;
-    color:rgb(226, 191, 116);
+    color:rgb(122, 92, 26);
 }
 main{
    text-align: center; 
@@ -21,3 +21,13 @@ main{
 nav {
 
  color:rgb(226, 191, 116);}
+
+ 
+h2 {
+    background-color: beige;
+}
+
+img {
+    width: 30%;
+    height: auto;
+  }
